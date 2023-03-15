@@ -1,0 +1,17 @@
+{
+  "name": "ejercicio-01",
+  "version": "1.0.0",
+  "description": "Ejercicio 01 del Curso de JavaScript de OB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OpenBootcamp",
+    "JavaScript",
+    "Ejercicio",
+    "01"
+  ],
+  "author": "Feerdus95",
+  "license": "ISC"
+}
