@@ -5,8 +5,8 @@ let mialturaFloat = 1.66;
 let miPesoKg = 55.4;
 let valMaxJs = ((Number.MAX_VALUE + 1) === Number.MAX_VALUE);
 //Operaciones
-let miAlturaMt = mialturaFloat.toFixed(1)
-let miPesoRab = Math.round(miPesoKg)
+let miAlturaMt = Math.ceil(mialturaFloat)
+let miPesoRab = Math.floor(miPesoKg)
 //Salida
 console.log(miAlturaInt)
 console.log(mialturaFloat)
