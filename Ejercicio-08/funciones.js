@@ -4,7 +4,7 @@ function alwaysTrue(){
     return true;
 }
 async function promSaludo() {
-    setTimeout(()=> console.log("Hola soy una promesa"),5000)
+    return setTimeout(()=> console.log("Hola soy una promesa"),5000)
 }
 function* evenIndexGen(){
     let index=0;
