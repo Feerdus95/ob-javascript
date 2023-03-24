@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "eslint": "^8.36.0"
+  },
+  "name": "ejercicio-13",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "lint-fix": "eslint --fix ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
