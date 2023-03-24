@@ -1,3 +1,12 @@
+/**
+ * Se cambiaron las comillas dobles por simples y backticks respectivamente
+ * en las constantes apellido y estudiante, mostrando los mensajes de error
+ * esperados según la configuración del archivo ".eslintrc.json".
+ * 
+ * Al ejecutar en terminal el script "npm run lint-fix", dentro del package.json,
+ * se reemplazaron por comillas dobles, solucionando el error automáticamente.
+ */
+
 const nombre = "Gorka"
 const apellido = "Villar"
 const estudiante = nombre.concat(" ").concat(apellido)
